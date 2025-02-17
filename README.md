@@ -1,7 +1,7 @@
 
 ### Strategic Expansion of Biogenesys
 
-# Introduction
+# Introducción
 BIOGÉNESYS, una empresa farmacéutica, está llevando a cabo una iniciativa estratégica para identificar ubicaciones óptimas para la expansión de laboratorios farmacéuticos. Esta decisión se basa en un análisis exhaustivo de datos sobre la incidencia de COVID-19, las tasas de vacunación y la disponibilidad de infraestructuras sanitarias. El objetivo es mejorar la capacidad de respuesta pandémica y pospandémica para mejorar el acceso a las vacunas.
 
 ## Desarrollo del proyecto
